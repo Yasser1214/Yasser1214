@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yasser1214
 - 👀 I’m interested in MVC frameworks
 - 🌱 I’m currently learning Symfony
-- 💞️ I’m looking to collaborate on web apps projects
+- 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach me : yasser_dahy@hotmail.fr
 
 <!---
