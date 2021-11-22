@@ -1,4 +1,4 @@
-- 👋 Hi there, I’m <p style="font-size: 15px;"> @Yasser1214 </p> or <p style="font-size: 15px;"> Yasser the 1214th </p>.
+- 👋 Hi there, I’m <font size="6"> @Yasser1214 </font> or <font size="6"> Yasser the 1214th </font>.
 - 🌱 I’m currently working on secret projects for important people. 
 - 🔧 I'm also trying to develop a technique to apply the Heimlich maneuver on myself (because of personal experiences).
 - 📫 How to reach me : yasser_dahy@hotmail.fr.
