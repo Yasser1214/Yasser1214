@@ -1,16 +1,19 @@
-- 👋 Hi there, I’m <font size="50"> @Yasser1214 </font> or <font size="50"> Yasser the 1214th </font>.
+- 👋 Hi there, I’m <font size="6"> @Yasser1214 </font> or <font size="6"> Yasser the 1214th </font>.
 - 🌱 I’m currently working on secret projects for important people. 
 - 🔧 I'm also trying to develop a technique to apply the Heimlich maneuver on myself (because of personal experiences).
 - 📫 How to reach me : yasser_dahy@hotmail.fr .
-- <font size="50"> Know </font> 🚪 [Open the door](https://github.com/Yasser1214?tab=repositories) <font size="50"> or </font> :elevator: [go down the stairs](images/spiders.jpg)
+- Know stranger 🚪 [Open the door](https://github.com/Yasser1214?tab=repositories) or :elevator: [go down the stairs](images/spiders.jpg).
 
 
 
-- 〽️ ![visitors](https://visitor-badge.glitch.me/badge?page_id=Yasser1214.Yasser1214)
+- 📈 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Yasser1214.Yasser1214)
 
-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yasser1214&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+- My Stats :
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yasser1214&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!---
 Yasser1214/Yasser1214 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
