@@ -1,8 +1,8 @@
-- 👋 Hi there, I’m <font size="6"> @Yasser1214 </font> or <font size="6"> Yasser the 1214th </font>.
+- 👋 Hi there, I’m <font size="6"> @Yasser1214. </font> 
 - 🌱 I’m currently working on secret projects for important people. 
 - 🔧 I'm also trying to develop a technique to apply the Heimlich maneuver on myself (because of personal experiences).
 - 📫 How to reach me : yasser_dahy@hotmail.fr.
-- Now stranger 🚪 [Open the door](https://github.com/Yasser1214?tab=repositories) or :elevator: [go down the stairs](images/spiders.jpg).
+- Now stranger 🚪 [Open the door](https://github.com/Yasser1214?tab=repositories) or :arrow_down: [go down the stairs](images/spiders.jpg).
 
 
 
